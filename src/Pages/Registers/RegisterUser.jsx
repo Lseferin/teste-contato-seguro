@@ -140,7 +140,7 @@ export default function RegisterUser() {
           </Button>    
         </FormAdd>
      
-        <Grid container alignItems="center" width="auto" flexWrap="nowrap">
+        <Grid container alignItems="center" width="auto" flexWrap="nowrap" gap="20px">
           <TextField
             id="search"
             label="Buscar"

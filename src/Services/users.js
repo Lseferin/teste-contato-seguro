@@ -6,7 +6,7 @@ const users = [
       phone: "(11)11111-1111",
       dateOfBirth: "01/01/2001",
       cityOfBirth: "Porto Alegre",
-      companies: [3],
+      company: "Empresa 1",
     },
     {
       id: 2,
@@ -15,7 +15,7 @@ const users = [
       phone: "(11)18111-1167",
       dateOfBirth: "09/04/2001",
       cityOfBirth: "Lajeado",
-      companies: [1],
+      company: "Empresa 4",
     },
     {
       id: 3,
@@ -24,7 +24,7 @@ const users = [
       phone: "(11)22111-1371",
       dateOfBirth: "01/01/2001",
       cityOfBirth: "Cachoeirinha",
-      companies: [3],
+      company: "Empresa 1",
     },
     {
       id: 4,
@@ -33,7 +33,7 @@ const users = [
       phone: "(11)46511-1111",
       dateOfBirth: "01/06/2000",
       cityOfBirth: "Tramandaí",
-      companies: [2],
+      company: "Empresa 2",
     },
     {
       id: 5,
@@ -42,7 +42,7 @@ const users = [
       phone: "(11)11111-1111",
       dateOfBirth: "07/10/2002",
       cityOfBirth: "Imbé",
-      companies: [5],
+      company: "Empresa 3",
     },
     {
       id: 6,
@@ -51,7 +51,7 @@ const users = [
       phone: "(11)14511-1121",
       dateOfBirth: "14/03/1989",
       cityOfBirth: "Esteio",
-      companies: [1],
+      company: "Empresa 2",
     },
     {
       id: 7,
@@ -60,7 +60,7 @@ const users = [
       phone: "(11)11199-11341",
       dateOfBirth: "27/02/2001",
       cityOfBirth: "Novo Hamburgo",
-      companies: [3],
+      company: "Empresa 5",
     },
     {
       id: 8,
@@ -69,7 +69,7 @@ const users = [
       phone: "(11)41511-8111",
       dateOfBirth: "08/12/1994",
       cityOfBirth: "Viamão",
-      companies: [2],
+      company: "Empresa 3",
     },
     {
       id: 9,
@@ -78,7 +78,7 @@ const users = [
       phone: "(11)13111-7811",
       dateOfBirth: "11/09/1993",
       cityOfBirth: "Porto Alegre",
-      companies: [1],
+      company: "Empresa 5",
     },
     {
       id: 10,
@@ -87,7 +87,7 @@ const users = [
       phone: "(11)71141-1121",
       dateOfBirth: "03/02/2001",
       cityOfBirth: "Gravataí",
-      companies: [1],
+      company: "Empresa 2",
     },
     {
       id: 11,
@@ -96,7 +96,7 @@ const users = [
       phone: "(11)15411-1132",
       dateOfBirth: "30/01/2002",
       cityOfBirth: "Caxias do Sul",
-      companies: [3],
+      company: "Empresa 8",
     },
     {
       id: 12,
@@ -105,7 +105,7 @@ const users = [
       phone: "(11)21511-1871",
       dateOfBirth: "11/09/1991",
       cityOfBirth: "Canoas",
-      companies: [2],
+      company: "Empresa 6",
     },
   ];
   
